@@ -4,7 +4,7 @@
     "modelProvider": "openrouter",
     "settings": {
         "secrets": {
-            "OPENROUTER_API_KEY": "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"
+            "OPENROUTER_API_KEY": ""
         },
         "voice": {
             "model": "en_US-male-medium"
